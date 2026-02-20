@@ -1,0 +1,8 @@
+<resources>
+<!--    String name that we gave the app....-->
+    <string name="app_name">AndroidSample</string>
+    <string name="convert_string">Convert</string>
+    <string name="dollars_hint">dollars</string>
+<!--    Added this myself-->
+    <string name="no_value_string">No Value</string>
+</resources>
